@@ -1,0 +1,3 @@
+Classe che gestisce il tempo
+Classe che gestisce i colori
+FrameManager -> gestore FPS
